@@ -1,4 +1,3 @@
 # Project_Idea
-yo. я создаю приложение для android для обратной связи с мной
-
+yo. я создаю порт VS code на мобилы
 # Почта: desharish@yahoo.com
